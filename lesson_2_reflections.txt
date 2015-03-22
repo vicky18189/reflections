@@ -1,12 +1,18 @@
 Q. What happens when you initialize a repository? Why do you need to do it?
-A.
+A.We need to initialise repo. because we need a HOME for our COMMITs, when we do it ans Empty Repository is created in selected folder.
+
 Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
-A.	
+A.	Staging area is the place where git keeps files to be committed we can add and remove files to be commited in this place.
+
 Q.How can you use the staging area to make sure you have one commit per logical change?
-A.
+A.In staging area we can commit changes according to our changes to particular files by individually adding them to repository as per logical change is made.
+
 Q.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-A.
+A.1.When working on more than one thing in a single project, like adding coins, adding an easy level in the game...etc in Astroid Game.
+Branches make the changes easy to understand, we know in Coins branch, coins will be added and not the Easy mode of the game will be created.
+
 Q.How do the diagrams help you visualize the branch structure?
-A.
+A."Image say a thousand words" is the saying and Branch Diagrams are the represention of the branches in the repo. 
+
 Q.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-A.
+A. 
