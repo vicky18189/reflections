@@ -3,10 +3,9 @@ local?
 A.When I don't have access to my local system, and have to install and configure GIT all over again on a new system where I want to code.
 
 
-Why might you want to always pull changes manually rather than having Git
+Q.Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+A.Because I don't want to get surprised with someone else's work ended up on my local repo,until I am sure it mine 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
