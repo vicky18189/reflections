@@ -15,4 +15,4 @@ Q.How do the diagrams help you visualize the branch structure?
 A."Image say a thousand words" is the saying and Branch Diagrams are the represention of the branches in the repo. 
 
 Q.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-A. 
+A. Auto merge helps in every way to combine all changes without blinking an EYE. Manully doing so going line by line I think I SHOULD QUIT CODING, if I have GIT Auto merge and doing it manually.... :D
