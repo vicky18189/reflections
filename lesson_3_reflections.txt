@@ -17,10 +17,9 @@ Q.What is the benefit of having a copy of the last known state of the remote sto
 
 A.Having a copy of remote on local can help ih chking if there is any change done by another collbrtor or status of the current version of your project, has it been up to date with the remote even if you are not connected to the internet like in the jungle. :)
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+Q.How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+A.I was sharing my updated project every day with my partner on Google Drive. Now no way I am using that GIT is the easiest way i know now, so no doubt that I am using GIT from now on. :))
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
